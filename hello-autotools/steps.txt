@@ -1,0 +1,8 @@
+1.  Create files Makefile.am, configure.in, and hello.c.
+2.  'aclocal'
+3.  'autoconf'
+4.  'touch NEWS README AUTHORS ChangeLog'
+5.  'automake -a'
+
+See ftp://ftp.ugcs.caltech.edu/pub/elef/autotools/node62.html
+
